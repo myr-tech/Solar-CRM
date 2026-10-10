@@ -1,0 +1,6 @@
+{
+  "name": "Frontier Solar CRM",
+  "description": "Complete Solar Installation ERP & CRM for Frontier Complete Solar Solutions, Registered PM Surya Ghar Vendor, Nagpur, Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
